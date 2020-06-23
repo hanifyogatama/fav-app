@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
         // testing comment
         // testing another comment
         // testing another comment again 1232
-        // ololo
+        // sdfadf
     }
 }
