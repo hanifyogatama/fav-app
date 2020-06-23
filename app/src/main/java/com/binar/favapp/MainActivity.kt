@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // testing commant
+        // testing comment
+        // testing another comment
+        // testing another comment again 1232
     }
 }
