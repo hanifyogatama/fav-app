@@ -12,8 +12,12 @@ class MainActivity : AppCompatActivity() {
 
     fun newFunction() {
         // new function by hanif
-
+        // wkwkw
     }
+
+
+
+
 
 }
 
