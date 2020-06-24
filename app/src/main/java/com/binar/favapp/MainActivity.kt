@@ -23,8 +23,15 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+    fun secondFunction() {
+        // something new here
+        // by wisnu
+    }
 
-
+    // new comment here by wisnu
+    // again
+    // and something new again
+    // again n again
 
 
 }
