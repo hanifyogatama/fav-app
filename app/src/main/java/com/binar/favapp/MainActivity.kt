@@ -18,6 +18,9 @@ class MainActivity : AppCompatActivity() {
         // wkwkw
     }
 
+    fun newFunctionTwo() {
+        // new function two by haniff
+    }
 
 
 
