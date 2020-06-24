@@ -18,6 +18,10 @@ class MainActivity : AppCompatActivity() {
         // wkwkw
     }
 
+    fun secondFunction() {
+        // something new here
+        // by wisnu
+    }
 
 
 
