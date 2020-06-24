@@ -32,8 +32,9 @@ class MainActivity : AppCompatActivity() {
     // again
     // and something new again
     // again n again
-
-
+    
 }
 
-
+fun conflicFunction (){
+    // mesti conflick boss by hanif
+}
