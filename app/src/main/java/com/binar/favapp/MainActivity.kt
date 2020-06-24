@@ -32,7 +32,12 @@ class MainActivity : AppCompatActivity() {
     // again
     // and something new again
     // again n again
-    
+
+
+    fun addBranch() {
+        // wisnu addes branch develop
+        // this is in branch develop
+    }
 }
 
 fun conflicFunction (){
