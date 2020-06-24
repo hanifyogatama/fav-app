@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // testing comment
+        // aku ngetik ini tapi nanggung pak bos keburu minta tunjuk duluan
     }
 }
