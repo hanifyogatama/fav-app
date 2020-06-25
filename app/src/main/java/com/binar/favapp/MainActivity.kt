@@ -53,3 +53,7 @@ fun loginFeature() {
     // another content
     // the last code
 }
+
+fun registerFeature() {
+    // made by wisnu
+}
