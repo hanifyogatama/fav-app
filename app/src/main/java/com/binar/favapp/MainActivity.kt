@@ -33,6 +33,12 @@ class MainActivity : AppCompatActivity() {
     // and something new again
     // again n again
 
+
+
+    fun addBranch() {
+        // wisnu addes branch develop
+        // this is in branch develop
+    }
 }
 
 fun conflicFunction (){
@@ -41,3 +47,6 @@ fun conflicFunction (){
 
 
 // tentang hanif
+// i will make this conflict
+
+// hanif yogatama
